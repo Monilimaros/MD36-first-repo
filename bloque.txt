@@ -1,0 +1,4 @@
+En este primer bloque conocimos lo que es son los controladores de versiones.
+El uso de git nos permite tener a mano todos los cambios que realizamos y mantener una copia segura de los mismos
+Por otro lado, Github nos permite arrojar repositorios de Git en la web, para poder acceder a ellos desde cualquier disposotivo.
+Con ello nos permite compartir con más personas nuestra experiencia y proyectos en los que hemos participado. 
